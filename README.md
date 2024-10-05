@@ -1,5 +1,5 @@
 # library
-### Even though project isn't bulit with goode UI it's API works well leter API documentaion will be added.Most of nodejs/express third-party modules are used and other stuf CRUD operation done etc ...
+### Even though the project isn't built with good UI its API works well later API documentation will be added. Most nodejs/express third-party modules are used and other stuff CRUD operations are done etc ...
 
 ## Setup
 
